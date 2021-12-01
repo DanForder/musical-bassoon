@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/muscial-bassoon/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/muscial-bassoon/static/js/main.e7449db6.chunk.js",
-    "main.js.map": "/muscial-bassoon/static/js/main.e7449db6.chunk.js.map",
-    "runtime-main.js": "/muscial-bassoon/static/js/runtime-main.c0a80565.js",
-    "runtime-main.js.map": "/muscial-bassoon/static/js/runtime-main.c0a80565.js.map",
-    "static/js/2.83b0c26f.chunk.js": "/muscial-bassoon/static/js/2.83b0c26f.chunk.js",
-    "static/js/2.83b0c26f.chunk.js.map": "/muscial-bassoon/static/js/2.83b0c26f.chunk.js.map",
-    "static/js/3.bdbda2f8.chunk.js": "/muscial-bassoon/static/js/3.bdbda2f8.chunk.js",
-    "static/js/3.bdbda2f8.chunk.js.map": "/muscial-bassoon/static/js/3.bdbda2f8.chunk.js.map",
-    "index.html": "/muscial-bassoon/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/muscial-bassoon/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.83b0c26f.chunk.js.LICENSE.txt": "/muscial-bassoon/static/js/2.83b0c26f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/muscial-bassoon/static/media/logo.6ce24c58.svg"
+    "main.css": "/musical-bassoon/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/musical-bassoon/static/js/main.e7449db6.chunk.js",
+    "main.js.map": "/musical-bassoon/static/js/main.e7449db6.chunk.js.map",
+    "runtime-main.js": "/musical-bassoon/static/js/runtime-main.0c06fb96.js",
+    "runtime-main.js.map": "/musical-bassoon/static/js/runtime-main.0c06fb96.js.map",
+    "static/js/2.83b0c26f.chunk.js": "/musical-bassoon/static/js/2.83b0c26f.chunk.js",
+    "static/js/2.83b0c26f.chunk.js.map": "/musical-bassoon/static/js/2.83b0c26f.chunk.js.map",
+    "static/js/3.bdbda2f8.chunk.js": "/musical-bassoon/static/js/3.bdbda2f8.chunk.js",
+    "static/js/3.bdbda2f8.chunk.js.map": "/musical-bassoon/static/js/3.bdbda2f8.chunk.js.map",
+    "index.html": "/musical-bassoon/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/musical-bassoon/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.83b0c26f.chunk.js.LICENSE.txt": "/musical-bassoon/static/js/2.83b0c26f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/musical-bassoon/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0a80565.js",
+    "static/js/runtime-main.0c06fb96.js",
     "static/js/2.83b0c26f.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.e7449db6.chunk.js"
